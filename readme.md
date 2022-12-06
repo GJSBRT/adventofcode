@@ -7,3 +7,4 @@ Every day in another language
 - Python
 - PHP
 - C++
+- Lua
